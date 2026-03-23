@@ -45,6 +45,10 @@ HTML | CSS | JavaScript | Python | MySQL | Git
 
 ---
 
+## 💻 DSA Practice
+- Solving LeetCode problems daily
+- Strong foundation in Arrays, Strings, Linked List, Trees
+
 ## 📊 Coding Profiles
 
 🔗 [LeetCode:](https://leetcode.com/u/Akshita_ag_26/)
