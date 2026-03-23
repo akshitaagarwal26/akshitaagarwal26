@@ -47,7 +47,7 @@ HTML | CSS | JavaScript | Python | MySQL | Git
 
 ## 📊 Coding Profiles
 
-[🔗 LeetCode:](https://leetcode.com/u/Akshita_ag_26/)
+🔗 [LeetCode:](https://leetcode.com/u/Akshita_ag_26/)
 
 ---
 
